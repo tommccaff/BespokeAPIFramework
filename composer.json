@@ -1,0 +1,15 @@
+{
+    "name": "realhelp/myapiwdep",
+    "description": "My barebones API Framework with Dependencies",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tommccaff",
+            "email": "tommc@realhelp.net"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
